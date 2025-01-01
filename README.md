@@ -46,7 +46,7 @@ plt.plot(X,Y_predicted,color='red')
 plt.show()
 ```
 ## Output:
-![best fit line](sam.png)
+![best fit line](sam.png)  
 8,2,11,6,5,4,12,9,6,1  
 3,10,3,6,8,12,1,4,9,14  
 -1.1064189189189189 14.08108108108108  
